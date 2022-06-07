@@ -5,7 +5,7 @@ schema:
   name: "klingon"
   schema_id: "klingon"
   author:
-    - "IME.ME, <E-MAIL@ADDRESS>"
+    - "Kitty-Panics, <E-MAIL@ADDRESS>"
   description: |
     适用于 Klingon 的 RIME 输入方案。
   version: 0.1
