@@ -53,7 +53,7 @@ translator:
   sentence_over_completion: false # 是否在无全码对应字而仅有逐键提示时开启智能组句
   enable_sentence: false # 是否开启自动造句
   enable_user_dict: false # 是否开启用户词典
-  dictionary: tlh # 设置字典文件
+  dictionary: klingon # 设置字典文件
   comment_format:
     - "xform/[~a-zA-Z]//" # 去除按键提示
 
