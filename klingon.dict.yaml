@@ -1,0 +1,74 @@
+# RIME dictionary: klingon
+# encoding: utf-8
+
+---
+name: "klingon"
+version: "0.1"
+sort: original
+use_preset_vocabulary: false
+columns:
+  - text
+  - code
+...
+
+# 小写
+
+Q	q
+w	w
+e	e
+r	r
+t	t
+y	y
+u	u
+I	i
+o	o
+p	p
+
+a	a
+S	s
+D	d
+ng	f
+gh	g
+H	h
+j	j
+q	k
+l	l
+
+'	z
+tlh	x
+ch	c
+v	v
+b	b
+n	n
+m	m
+
+# 大写
+
+Q	Q
+w	W
+e	E
+r	R
+t	T
+y	Y
+u	U
+I	I
+o	O
+p	P
+
+a	A
+S	S
+D	D
+ng	F
+gh	G
+H	H
+j	J
+q	K
+l	L
+
+'	Z
+tlh	X
+ch	C
+v	V
+b	B
+n	N
+m	M

@@ -8,14 +8,14 @@
 ## 字符对照表
 
 由于 Unicode 并未收录 Klingon 的文字，所以目前所有能显示 Klingon 文字的字体都是使用的 [PUA 区]，
-而平时为了方便书写和交流，都使用的是转写的拉丁字母。
+为了方便书写和交流，一般使用转写后的拉丁字母。
 
 ![mapping]
 
 [PUA 区]: https://en.wikipedia.org/wiki/Private_Use_Areas
 [mapping]: img/mapping.png
 
-## 键位图
+## 键位示例图
 
 ![Android - TRIME]
 
