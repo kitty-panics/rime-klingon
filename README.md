@@ -7,7 +7,7 @@
 
 ## 字符对照表
 
-由于 Unicode 并未收录 Klingon 的文字，所以目前所有能显示 Klingon 文字的字体都是使用的 [PUA 区]，
+由于 Unicode 并未收录 Klingon 的文字，目前所有能显示 Klingon 文字的字体都是使用的 [PUA 区]，
 为了方便书写和交流，一般使用转写后的拉丁字母。
 
 ![mapping]
