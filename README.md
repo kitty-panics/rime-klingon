@@ -14,8 +14,8 @@
 + [对照表 - 文字版]
 
 [PUA 区]: https://en.wikipedia.org/wiki/Private_Use_Areas
-[对照表图片版]: img/mapping.png
-[对照表文字版]: docs/unicode-klingon.md
+[对照表 - 图片版]: img/mapping.png
+[对照表 - 文字版]: docs/unicode-klingon.md
 
 ## 键位示例图
 
